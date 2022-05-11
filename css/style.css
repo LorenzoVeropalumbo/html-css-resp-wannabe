@@ -133,8 +133,9 @@ img {
     /* TITLE */
     h1 {
         width: 100%;
-        display: flex;
-        justify-content: center;
+        /* display: flex;
+        justify-content: center; */
+        text-align: center;
     }
     /* Container 768px */
     .container{
